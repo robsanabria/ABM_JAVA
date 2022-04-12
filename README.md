@@ -3,6 +3,7 @@ Programa en Java que cuenta con varias funcionalidades
 
 Hola :D! Voy a compartir uno de los trabajos Practicos que tuve que realizar para aprobar la materia "Java" En la tecnicatura de programacion de computadores.
 Ojala les sea de ayuda, costo trabajo realizarlo ya que este es uno de mis primeros proyectos codeado en este maravilloso leanguaje ☕☕
+Excelente para poner en practica la metodologia POO-
 
 EL programa debe contar con las siguientes caracteristicas: 
 
